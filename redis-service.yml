@@ -13,3 +13,4 @@ spec:
   selector:
     author: felix
       name: redis-pod
+...

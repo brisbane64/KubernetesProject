@@ -14,3 +14,4 @@ spec:
   selector:
     author: felix
     name: voting-app-pod
+...
